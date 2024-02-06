@@ -6,12 +6,14 @@ This project simulates planer multi-body impact dynamics of a jack bouncing arou
 
 
 ### Video demo
-<iframe width="560" height="560"
-src="https://www.youtube.com/embed/7h0ls1MOKCs"
-title="YouTube video player"
-frameborder="0"
-allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-allowfullscreen></iframe>
+<object width="560" height="560">
+  <param name="movie" value="https://www.youtube.com/embed/7h0ls1MOKCs" />
+  <param name="wmode" value="transparent" />
+  <embed src="http://www.youtube.com/user/wwwLoveWatercom?v=BTRN1YETpyg"
+         type="application/x-shockwave-flash"
+         wmode="transparent" width="425" height="350" />
+</object>
+
 <br>
 
 ### System Diagram
