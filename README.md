@@ -9,7 +9,7 @@ This project simulates planer multi-body impact dynamics of a jack bouncing arou
 <object width="560" height="560">
   <param name="movie" value="https://www.youtube.com/embed/7h0ls1MOKCs" />
   <param name="wmode" value="transparent" />
-  <embed src="http://www.youtube.com/user/wwwLoveWatercom?v=BTRN1YETpyg"
+  <embed src="https://www.youtube.com/embed/7h0ls1MOKCs"
          type="application/x-shockwave-flash"
          wmode="transparent" width="425" height="350" />
 </object>
